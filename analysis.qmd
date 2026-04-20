@@ -1,14 +1,21 @@
 ---
-title: "Germinacion Frijol"
-author: "grupo 5"
+title: "Germinacion de semillas de frijol"
+author: "lalangui"
 format:
   html:
     toc: true
+    toc-expand: 2
     toc-location: left
     number-sections: true
-    embed-resources: true
+    self-contained: true
+    code-fold: true
+    output-file: "ESM_1"
 editor_options: 
   chunk_output_type: console
+execute: 
+  warning: false
+  message: false
+  echo: true
 ---
 #INTRODUCCION
 La germinación es un proceso fisiológico mediante el cual la semilla reanuda su actividad metabólica y da origen a una nueva planta, iniciándose con la absorción de agua y la activación de enzimas que permiten la movilización de reservas, este proceso está influenciado por diversos factores ambientales como la temperatura, la humedad, el oxígeno y la luz, los cuales determinan tanto el porcentaje como la velocidad de germinación (Finch-Savage & Leubner-Metzger, 2006). En el caso del frijol (Phaseolus vulgaris L.), una de las leguminosas más importantes a nivel mundial por su alto valor nutricional y su contribución a la seguridad alimentaria, la germinación adecuada es fundamental para lograr un buen establecimiento del cultivo (FAO, 2012)Diversos estudios han demostrado que, dependiendo de la especie, la luz puede actuar como un factor regulador de la germinación, aunque en muchas leguminosas este proceso no es estrictamente dependiente de la presencia de luz (Baskin & Baskin, 2014). En este contexto, la presente práctica tuvo como objetivo evaluar el efecto de la germinación en condiciones normales con luz y en ambiente oscuro y evaluar el porcentaje de germinación, el tiempo medio de germinación y la sincronización del proceso en semillas de frijol, planteando como hipótesis que dicho factor influye en la respuesta germinativa bajo condiciones controladas.
